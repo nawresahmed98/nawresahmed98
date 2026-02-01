@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hi, I'm Nawres Ahmed
 
-<!--
-**nawresahmed98/nawresahmed98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master's Student in Computer Science | Data Analytics & Business Intelligence**
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nawresahmed98&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **3rd year Engineering student** (ESPRIT, Tunisia) → **Master's in CS** (Philipps-Universität Marburg, Germany)
+- 📊 **Specialized in**: Data Analysis, Business Intelligence, Semantic Web
+- 💻 **Tools**: **Power BI**, Python (Pandas, Scikit-learn), SQL, Java, Git, Protégé
+- 🌍 Currently based in **Marburg, Germany** (Hesse)
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Flights](https://github.com/nawresahmed98/Flights)** | Flight delay analysis & predictive dashboard | **Power BI** ⭐ |
+| **[ComparPriceBI](https://github.com/nawresahmed98/ComparPriceBI)** | Price comparison platform with BI analytics | **Power BI**, **Python** |
+| **[Ontological Agent IA](https://github.com/nawresahmed98/OntologicalAgentIA)** | Intelligent agents + NLP for ontological alignment | **Java**, **Protégé**, **OWL**, **NLP** |
+
+## 🛠️ Skills
+
+```mermaid
+graph TB
+    A[Data & BI] --> B[Power BI]
+    A --> D[SQL]
+    A --> E[Python/Pandas]
+    
+    F[Semantic Web] --> G[Protégé]
+    F --> H[OWL/RDF]
+    F --> I[Java Agents]
+    
+    J[Databases] --> K[PostgreSQL]
+    J --> L[MySQL]
+
+    E[Programming] --> F[Python]
+    E --> G[Java]
+    E --> H[JavaScript]
+    
+    I[ML] --> J[Pandas]
+    I --> K[Scikit-learn]
+    I --> L[TensorFlow]
